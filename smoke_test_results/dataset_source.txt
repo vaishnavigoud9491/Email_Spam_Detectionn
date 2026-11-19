@@ -1,0 +1,1 @@
+Synthetic smoke test: data/synthetic_smoke_test.csv (80 authored example messages; not the public corpus).
